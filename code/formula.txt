@@ -1,1 +1,0 @@
-=CONCATENATE(TEXT(C2,"m/dd/yy ")," ", TEXT(D2,"hh:mm"))
